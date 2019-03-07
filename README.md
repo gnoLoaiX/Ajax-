@@ -1,2 +1,4 @@
 # Ajax-
-方便日后查看，
+ 
+<br>
+[ajax.pdf](https://github.com/gnoLoaiX/Ajax-/blob/master/ajax.pdf)
